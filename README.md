@@ -128,7 +128,7 @@ COVID-19 Global Analytics Dashboard/
 ├── Covid_Dataset.xlsx          # Source data (star schema, 6 sheets)
 ├── COVID19_Dashboard.pbix      # Power BI report file
 ├── dashboard_countries.png
-├──  dashboard_variants.png
+├── dashboard_variants.png
 └── README.md
 ```
 
