@@ -147,4 +147,4 @@ COVID-19 Global Analytics Dashboard/
 ## Author
 
 **Abdallah ElZakaziky**
-[LinkedIn](https://linkedin.com/in/your-profile) · [GitHub](https://github.com/your-username)
+[LinkedIn](https://www.linkedin.com/in/abdallahelzakaziky/)
